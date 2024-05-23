@@ -1,2 +1,1 @@
-# 23ai-jdbc-vector-search
-Oracle AI Vector Search for Java Developers with the Oracle Database 23ai
+[Oracle AI Vector Search for Java Developers with the Oracle Database 23ai](https://juarezjunior.medium.com/oracle-ai-vector-search-for-java-developers-with-the-oracle-database-23ai-e29321d23fa0)
